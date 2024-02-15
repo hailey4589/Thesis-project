@@ -1,0 +1,64 @@
+good/Fotos 01-12-2020_DJI_0534_manilha_isolador_superior_32.jpg 0
+good/Fotos 02-12-2020_DJI_0192_manilha_isolador_superior_208.jpg 0
+good/Fotos 02-12-2020_DJI_0351_manilha_isolador_superior_160.jpg 0
+good/Fotos 02-12-2020_DJI_0456_manilha_isolador_superior_155.jpg 0
+good/Fotos 03-12-2020_DJI_0049_manilha_isolador_superior_361.jpg 0
+good/Fotos 03-12-2020_DJI_0153_manilha_isolador_superior_328.jpg 0
+good/Fotos 03-12-2020_DJI_0417_manilha_isolador_superior_303.jpg 0
+good/Fotos 03-12-2020_DJI_0504_manilha_isolador_superior_270.jpg 0
+good/Fotos 04-12-2020_DJI_0599_manilha_isolador_superior_456.jpg 0
+good/Fotos 04-12-2020_DJI_0754_manilha_isolador_superior_428.jpg 0
+good/Fotos 07-12-2020_DJI_0102_manilha_isolador_superior_524.jpg 0
+good/Fotos 07-12-2020_DJI_0320_manilha_isolador_superior_468.jpg 0
+good/Fotos 10-12-2020_DJI_0355_manilha_isolador_superior_761.jpg 0
+good/Fotos 14-12-2020_DJI_0066_manilha_isolador_superior_993.jpg 0
+good/Fotos 14-12-2020_DJI_0411_manilha_isolador_superior_959.jpg 0
+good/Fotos 14-12-2020_DJI_0412_manilha_isolador_superior_960.jpg 0
+good/Fotos 14-12-2020_DJI_0571_manilha_isolador_superior_957.jpg 0
+good/Fotos 16-11-2020_DJI_0169_manilha_isolador_superior_1008.jpg 0
+good/Fotos 17-11-2020_DJI_0073_manilha_isolador_superior_1118.jpg 0
+good/Fotos 17-12-2020_DJI_0278_manilha_isolador_superior_1161.jpg 0
+good/Fotos 19-11-2020_DJI_0024_manilha_isolador_superior_1253.jpg 0
+good/Fotos 19-11-2020_DJI_0194_manilha_isolador_superior_1220.jpg 0
+good/Fotos 20-10-2020_DJI_0226_manilha_isolador_superior_1293.jpg 0
+good/Fotos 20-10-2020_DJI_0229_manilha_isolador_superior_1296.jpg 0
+good/Fotos 21-10-2020_DJI_0577_manilha_isolador_superior_1338.jpg 0
+good/Fotos 22-10-2020_DJI_0708_manilha_isolador_superior_1368.jpg 0
+good/Fotos 23-10-2020_DJI_0186_manilha_isolador_superior_1423.jpg 0
+good/Fotos 23-11-2020_DJI_0012_manilha_isolador_superior_1456.jpg 0
+good/Fotos 27-11-2020_DJI_0545_manilha_isolador_superior_1563.jpg 0
+good/Fotos 30-11-2020_DJI_0119_manilha_isolador_superior_1679.jpg 0
+good/Fotos 30-11-2020_DJI_0422_manilha_isolador_superior_1647.jpg 0
+rust/01-06-2021_DJI_0007_4.jpg 1
+rust/01-06-2021_DJI_0036_8.jpg 1
+rust/01-06-2021_DJI_0072_12.jpg 1
+rust/01-06-2021_DJI_0101_23.jpg 1
+rust/01-06-2021_DJI_0102_24.jpg 1
+rust/01-06-2021_DJI_0248_73.jpg 1
+rust/01-06-2021_DJI_0272_84.jpg 1
+rust/01-06-2021_DJI_0273_85.jpg 1
+rust/01-06-2021_DJI_0294_95.jpg 1
+rust/01-06-2021_DJI_0335_100.jpg 1
+rust/01-06-2021_DJI_0336_101.jpg 1
+rust/01-06-2021_DJI_0454_140.jpg 1
+rust/01-06-2021_DJI_0547_159.jpg 1
+rust/01-06-2021_DJI_0548_160.jpg 1
+rust/01-06-2021_DJI_0587_166.jpg 1
+rust/02-06-2021_DJI_0073_198.jpg 1
+rust/02-06-2021_DJI_0294_249.jpg 1
+rust/02-06-2021_DJI_0335_256.jpg 1
+rust/02-06-2021_DJI_0568_277.jpg 1
+rust/08-06-2021_DJI_0081_320.jpg 1
+rust/08-06-2021_DJI_0244_349.jpg 1
+rust/08-06-2021_DJI_0274_380.jpg 1
+rust/09-06-2021_DJI_0210_489.jpg 1
+rust/09-06-2021_DJI_0275_510.jpg 1
+rust/09-06-2021_DJI_0302_528.jpg 1
+rust/09-06-2021_DJI_0404_540.jpg 1
+rust/09-06-2021_DJI_0456_560.jpg 1
+rust/10-06-2021_DJI_0034_619.jpg 1
+rust/11-06-2021_DJI_0142_7.jpg 1
+rust/11-06-2021_DJI_0170_8.jpg 1
+rust/11-06-2021_DJI_0217_9.jpg 1
+rust/Fotos 19-10-2020_DJI_0090_manilha_isolador_superior_21.jpg 1
+rust/Fotos 23-10-2020_DJI_0118_manilha_isolador_superior_1401.jpg 1
