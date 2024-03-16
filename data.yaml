@@ -2,5 +2,5 @@ train: ../train/images
 val: ../valid/images
 
 nc: 19
-names: ['Ommited', 'Yoke', 'Yoke Suspension', 'Spacer', 'Stockbridge Damper', 'Lightning Rod Shackle', 'Lightning Rod Suspension', 'Polymer insulator', 'Glass Insulator', 'Tower Id Pins', 'Vari Grip', 'Polymer Insulator lower shackle', 'Polymer Insulator upper shackle', 'polymer insulator tower shackle', 'glass insulator big shackle', 'glass insulator small shackle, ' glass insulator tower shackle', 'spiral damper', 'sphere']
+names: ['Ommited', 'Yoke', 'Yoke Suspension', 'Spacer', 'Stockbridge Damper', 'Lightning Rod Shackle', 'Lightning Rod Suspension', 'Polymer insulator', 'Glass Insulator', 'Tower Id Pins', 'Vari Grip', 'Polymer Insulator lower shackle', 'Polymer Insulator upper shackle', 'polymer insulator tower shackle', 'glass insulator big shackle', 'glass insulator small shackle', 'glass insulator tower shackle', 'spiral damper', 'sphere']
 
