@@ -15,7 +15,7 @@ def load_yaml_file(yaml_file_path, output_folder):
             print(f"Processing image: {file_name}")
             
             # Find corresponding annotations for the current image_id
-            image_annotations = [annotation for annotation in annotations if annotation.get('id') == image_id]
+            image_annotations = [annotation for annotation in annotations if annotation.get('image_id') == image_id]
             print(f"Annotations for image {image_id}: {image_annotations}")
             
             # Create a folder to store text files if it doesn't exist
@@ -32,8 +32,9 @@ def load_yaml_file(yaml_file_path, output_folder):
                     if category_id is not None and bbox is not None:
                         bbox_str = ' '.join(map(str, bbox))
                         txt_file.write(f"{category_id} {bbox_str}\n")
+                        
             
 # Example usage:
-yaml_file_path = 'C:\SCHOOL\Thesis-project\y.yaml'
-output_folder = 'C:\SCHOOL\Thesis-project\output_folder'  # Change this to the desired output folder
+yaml_file_path = '/home/avl/Thesis-project/yaml.yaml'
+output_folder = '/home/avl/Thesis-project/output_folder'  # Change this to the desired output folder
 load_yaml_file(yaml_file_path, output_folder)
